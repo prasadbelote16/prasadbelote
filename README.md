@@ -23,7 +23,7 @@
   <img src="https://img.icons8.com/fluency/48/forms.png" alt="oracle-forms" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/report-card.png" alt="oracle-reports" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/linux.png" alt="linux" width="40" height="40"/>
-  <img src="https://www.flaticon.com/free-icons/jira" title="jira icons">
+  <img src="jira.png" alt="Jira" width="40" height="40"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@
   <img src="https://img.icons8.com/color/48/gmail.png" alt="gmail" height="30" width="30" />
 </a>
   <a href="https://medium.com/@prasadbelote16" target="blank">
-  <img src="https://img.icons8.com/color/48/gmail.png" alt="gmail" height="30" width="30" />
+  <img src="medium.png" alt="Jira" width="40" height="40"/>
 </a>
 </p>
 
