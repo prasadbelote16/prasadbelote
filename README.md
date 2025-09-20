@@ -16,12 +16,12 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/sql.png" alt="sql" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-database-computer-science-flaticons-lineal-color-flat-icons.png" alt="database" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/pl-sql.png" alt="plsql" width="40" height="40"/>
+  <img src="database-management.png" alt="database" width="40" height="40"/>
+  <img src="images.png" alt="plsql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/apex.png" alt="apex" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/forms.png" alt="oracle-forms" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/report-card.png" alt="oracle-reports" width="40" height="40"/>
+  <img src="APEXWhite.png" alt="apex" width="40" height="40"/>
+  <img src="forms.png" alt="oracle-forms" width="40" height="40"/>
+  <img src="business-report.png" alt="report" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/linux.png" alt="linux" width="40" height="40"/>
   <img src="jira.png" alt="Jira" width="40" height="40"/>
 </p>
